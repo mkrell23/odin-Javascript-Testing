@@ -1,0 +1,4 @@
+const capatalize = {};
+
+
+export {capatalize};
