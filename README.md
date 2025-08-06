@@ -1,2 +1,3 @@
 # odin-Javascript-Testing
-Setting up a test environment with JavaScript and Jest
+
+This is a test environment with JavaScript and Jest to practicing TDD and the Red/Green/Refactoring methodology, following The Odin Project
